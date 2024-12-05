@@ -6,11 +6,19 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.youtube.com/@unrealltd.7285" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.facebook.com/mahir.2935" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="mailto:%20arcmahir35@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.instagram.com/mahir.__.35/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -65,8 +73,8 @@
 
 ###
 
-<div align="right">
-  <img height="180" src="https://giffiles.alphacoders.com/221/221910.gif"  />
+<div align="center">
+  <img height="190" src="https://giffiles.alphacoders.com/221/221910.gif"  />
 </div>
 
 ###
@@ -75,13 +83,11 @@
 
 ###
 
-<h4 align="left">During my free time, I actively contribute to open-source projects on GitHub. Due to my significant contributions to DuckDuckGo, I was appointed as a maintainer and community leader with write access to all of DuckDuckGo's repositories. I have also made contributions to a variety of other open-source projects and organizations, including Mozilla, Angular, Svelte, Node.JS etc<br><br>I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes Tinkerhub Foundation, Kites Foundation, Mozilla Foundation, Patternfly etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.</h4>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mahir-35/Mahir-35/output/snake.svg" alt="Snake animation" />
+<h4 align="left">During my free time, I actively contribute to open-source projects on GitHub. Due to my significant contributions to DuckDuckGo, I was appointed as a maintainer and community leader with write access to all of DuckDuckGo's repositories. I have also made contributions to a variety of other open-source projects and organizations, including Mozilla, Angular, Svelte, Node.JS etc<br><br>I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes <a href="https://tinkerhub.frappe.cloud/tinkerspace?_gl=1*dcxs*_ga*MjEyMTQ3Mjg5OS4xNzMzNDE3MjQ0*_ga_5F3S36SL83*MTczMzQxNzI0My4xLjEuMTczMzQxNzMwMC4wLjAuMA..*_ga_T7HYLS1ZNZ*MTczMzQxNzI0My4xLjEuMTczMzQxNzMwMC4wLjAuMA..*_ga_XF38NC19X7*MTczMzQxNzI0My4xLjEuMTczMzQxNzMwMC4wLjAuMA..">Tinkerhub Foundation </a>
+, <a href="https://kitesfoundation.org/">Kites Foundation</a>
+, <a href="https://foundation.mozilla.org/en/">Mozilla Foundation</a>
+, <a href="https://foundation.mozilla.org/en/">Patternfly</a>
+ etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.</h4>
 
 ###
 
@@ -91,6 +97,12 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahir-35&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Mahir-35/count.svg?"  />
 </div>
 
 ###
